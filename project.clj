@@ -1,6 +1,6 @@
-(defproject jira-csv-bulk-upload "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject com.leonardoborges/jira-csv-bulk-upload "0.1.0"
+  :description "A small utility to batch create JIRA issues from a CSV file"
+  :url "https://github.com/leonardoborges/jira-csv-bulk-upload"
   :license      {:name "Eclipse Public License"
                  :url "http://www.eclipse.org/legal/epl-v10.html"}
   :main         jira-csv-bulk-upload.core

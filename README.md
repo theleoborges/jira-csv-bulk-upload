@@ -10,7 +10,7 @@ Either build from source or download a [release](https://github.com/leonardoborg
     
 For help:
 
-    $ java -jar jira-csv-bulk-upload-0.1.0-SNAPSHOT-standalone.jar --hep
+    $ java -jar jira-csv-bulk-upload-0.1.0-SNAPSHOT-standalone.jar --help
     
 A sample issues file is provided under `resources/sample.csv`    
 
